@@ -1,0 +1,11 @@
+.popup__info-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    height: 35px;
+}
+
+.popup__subtitle {
+  font-weight: bold;
+  padding-left: 20px;
+}
